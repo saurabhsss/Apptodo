@@ -1,0 +1,25 @@
+div.todoStatusACTIVE{
+    color:blue;
+}
+div.todoStatusCOMPLETE{
+    color:green;
+}
+div.todoStatusDELETE{
+    color:red;
+}
+#list{
+    border-bottom: solid black ;
+
+}
+#add{
+    border-bottom: solid black ;
+
+}
+#comp{
+    border-bottom: solid black ;
+}
+.hide{
+    margin-left: 380px;
+    color:blue;
+    text-decoration: underline;
+}
